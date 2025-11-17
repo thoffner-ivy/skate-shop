@@ -1,6 +1,6 @@
 body {
     color: midnightblue;
-    background-color: azure;
+    background-color: lightcyan;
     font-family: "Verdana", "Arial", sans-serif;
 }
 
@@ -14,4 +14,17 @@ nav {
 
 h1 {
     font-family: "Impact", fantasy;
+    font-size: 125%;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:focus {
+    color: orange;
+}
+
+a:active {
+    color: yellowgreen;
 }
