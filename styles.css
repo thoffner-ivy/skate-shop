@@ -19,6 +19,11 @@ nav ul {
     align-items: center;
 }
 
+nav li {
+    text-align: center;
+    flex: 1;
+}
+
 h1 {
     font-family: "Impact", fantasy;
     font-size: 4em;
