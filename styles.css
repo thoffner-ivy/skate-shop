@@ -15,6 +15,8 @@ nav {
 nav ul {
     list-style-type: none;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 h1 {
@@ -23,7 +25,7 @@ h1 {
 }
 
 a:hover {
-    color: yellow;
+    color: gold;
 }
 
 a:focus {
