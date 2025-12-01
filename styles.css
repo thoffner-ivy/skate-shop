@@ -12,6 +12,11 @@ nav {
     border: 2px solid black;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
 h1 {
     font-family: "Impact", fantasy;
     font-size: 4em;
