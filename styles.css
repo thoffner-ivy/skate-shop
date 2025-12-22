@@ -32,6 +32,7 @@ h1 {
 img {
     width: 25%;
     height: auto;
+    display: block;
 }
 
 a:hover {
@@ -57,7 +58,6 @@ table, th, td {
 @media (max-width: 600px) {
     img {
         width: 100%;
-        height: auto;
     }
 
     html {
